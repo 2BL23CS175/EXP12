@@ -3,3 +3,4 @@ welcome to git Lab
 analysing and changing git history
 welcome to cse!
 this is vaishnavii
+today is wednesday 
